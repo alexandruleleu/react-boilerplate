@@ -1,2 +1,6 @@
-# react-boilerplate
-create-react-app
+
+##HOW TO RUN:
+
+npm install -g create-react-app
+npm install
+npm start
